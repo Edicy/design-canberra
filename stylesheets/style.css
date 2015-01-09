@@ -710,7 +710,6 @@ padding: 0 57px;
 }
 #front #cont_front {
 height: 226px;
-overflow: hidden;
 background: url('../images/bird.png?1') no-repeat left bottom;
 }
 
