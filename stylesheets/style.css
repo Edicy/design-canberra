@@ -833,3 +833,7 @@ body .add-article {
 #wrap .edy-taglist {
   border-color: rgba(255,255,255,.2);
 }
+
+#wrap .edy-btn-removecomment {
+  color: rgba(255,255,255,1) !important;
+}
