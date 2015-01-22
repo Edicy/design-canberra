@@ -54,7 +54,7 @@
     <div id="content">
 
       <div id="content_left">
-        <div id="content-left-inner" class="clearfix" data-search-indexing-allowed="true">
+        <div id="content-left-inner" class="clearfix content-hyphenate" data-search-indexing-allowed="true">
            {% content %}
         </div>
       </div> <!-- //content_left -->
