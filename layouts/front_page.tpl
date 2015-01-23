@@ -16,7 +16,7 @@
 
 <body id="front">
 
-	<div id="wrap">
+	<div id="wrap" class="content-hyphenate">
 
     <div id="content_front">
 
@@ -35,7 +35,7 @@
 
           <div id="slogan">
 
-            <div id="slogan2" class="clearfix content-hyphenate" data-search-indexing-allowed="true">
+            <div id="slogan2" class="clearfix" data-search-indexing-allowed="true">
               {% content name="slogan" %}
             </div><!-- //slogan2 -->
 
@@ -47,7 +47,7 @@
     <div id="darkcontent">
 <div id="darkcontent_wrap">
 
-      <div id="darkcontent_inner" class="clearfix content-hyphenate" data-search-indexing-allowed="true">
+      <div id="darkcontent_inner" class="clearfix" data-search-indexing-allowed="true">
         {% content %}
       </div> <!-- //darkcontent_inner -->
 

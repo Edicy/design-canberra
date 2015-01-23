@@ -16,7 +16,7 @@
 
 <body>
 
-	<div id="wrap">
+	<div id="wrap" class="content-hyphenate">
 
     <div id="content_sub">
 
@@ -43,7 +43,7 @@
     <div id="darkcontent">
         <div id="darkcontent_wrap">
       <div id="darkcontent_inner">
-<h1 class="heading content-hyphenate">
+<h1 class="heading">
               {% editable article.title plain="true" %}
 </h1>
 
@@ -68,7 +68,7 @@
             </div> <!-- //blog_date -->
           </div>
           <span class="blog_autor">{{ "author" |lc }}: {{ article.author.name }}</span><br />
-          <div class="excerpt content-hyphenate" data-search-indexing-allowed="true">{% editable article.excerpt %}</div>
+          <div class="excerpt" data-search-indexing-allowed="true">{% editable article.excerpt %}</div>
           <div class="content-hyphenate" data-search-indexing-allowed="true">{% editable article.body %}</div>
 
           {% if editmode %}
@@ -93,7 +93,7 @@
           <div class="hr"><a name="comments"></a><h4>{{ "comments_for_count" |lc }}: <span class="edy-site-blog-comments-count">{{ article.comments_count }}</span></h4></div>
 
       {% for comment in article.comments %}
-      <p class="edy-site-blog-comment content-hyphenate">{{ comment.body_html }}
+      <p class="edy-site-blog-comment">{{ comment.body_html }}
         <br /><span class="data2">{{ comment.author }}, {{ comment.created_at | format_date:"long" }}</span>{% removebutton %}</p>
       <br />
       {% endfor %}
