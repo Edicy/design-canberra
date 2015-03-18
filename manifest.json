@@ -38,56 +38,56 @@
       "component": true,
       "file": "components/footer.tpl",
       "layout_name": "footer",
-      "title": "footer"
+      "title": "Footer"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/js.tpl",
       "layout_name": "js",
-      "title": "js"
+      "title": "JS"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/langmenu.tpl",
       "layout_name": "langmenu",
-      "title": "langmenu"
+      "title": "Langmenu"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/mainmenu.tpl",
       "layout_name": "mainmenu",
-      "title": "mainmenu"
+      "title": "Mainmenu"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/news.tpl",
       "layout_name": "news",
-      "title": "news"
+      "title": "News"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/search.tpl",
       "layout_name": "search",
-      "title": "search"
+      "title": "Search"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/siteheader.tpl",
       "layout_name": "siteheader",
-      "title": "siteheader"
+      "title": "SiteHeader"
     },
     {
       "content_type": "component",
       "component": true,
       "file": "components/submenu.tpl",
       "layout_name": "submenu",
-      "title": "submenu"
+      "title": "Submenu"
     }
   ],
   "assets": [
@@ -117,39 +117,15 @@
     },
     {
       "content_type": "image/gif",
-      "file": "images/bg_front_medium.gif",
-      "kind": "images",
-      "filename": "bg_front_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/bg_medium.gif",
-      "kind": "images",
-      "filename": "bg_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/bg_sub.gif",
       "kind": "images",
       "filename": "bg_sub.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/bg_sub_medium.gif",
-      "kind": "images",
-      "filename": "bg_sub_medium.gif"
     },
     {
       "content_type": "image/png",
       "file": "images/bird.png",
       "kind": "images",
       "filename": "bird.png"
-    },
-    {
-      "content_type": "image/png",
-      "file": "images/bird_medium.png",
-      "kind": "images",
-      "filename": "bird_medium.png"
     },
     {
       "content_type": "image/png",
@@ -162,12 +138,6 @@
       "file": "images/canberra_search.gif",
       "kind": "images",
       "filename": "canberra_search.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/canberra_search_medium.gif",
-      "kind": "images",
-      "filename": "canberra_search_medium.gif"
     },
     {
       "content_type": "image/gif",
@@ -188,34 +158,10 @@
       "filename": "content_big.png"
     },
     {
-      "content_type": "image/png",
-      "file": "images/content_big_medium.png",
-      "kind": "images",
-      "filename": "content_big_medium.png"
-    },
-    {
       "content_type": "image/gif",
       "file": "images/content_front.gif",
       "kind": "images",
       "filename": "content_front.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/content_front_medium.gif",
-      "kind": "images",
-      "filename": "content_front_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/content_medium.gif",
-      "kind": "images",
-      "filename": "content_medium.gif"
-    },
-    {
-      "content_type": "image/png",
-      "file": "images/content_medium.png",
-      "kind": "images",
-      "filename": "content_medium.png"
     },
     {
       "content_type": "image/gif",
@@ -225,33 +171,15 @@
     },
     {
       "content_type": "image/gif",
-      "file": "images/content_sub_medium.gif",
-      "kind": "images",
-      "filename": "content_sub_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/form_submit_left.gif",
       "kind": "images",
       "filename": "form_submit_left.gif"
     },
     {
       "content_type": "image/gif",
-      "file": "images/form_submit_left_medium.gif",
-      "kind": "images",
-      "filename": "form_submit_left_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/form_submit_right.gif",
       "kind": "images",
       "filename": "form_submit_right.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/form_submit_right_medium.gif",
-      "kind": "images",
-      "filename": "form_submit_right_medium.gif"
     },
     {
       "content_type": "image/gif",
@@ -267,18 +195,6 @@
     },
     {
       "content_type": "image/gif",
-      "file": "images/h1_medium.gif",
-      "kind": "images",
-      "filename": "h1_medium.gif"
-    },
-    {
-      "content_type": "image/png",
-      "file": "images/h1_medium.png",
-      "kind": "images",
-      "filename": "h1_medium.png"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/lines.gif",
       "kind": "images",
       "filename": "lines.gif"
@@ -291,21 +207,9 @@
     },
     {
       "content_type": "image/gif",
-      "file": "images/mainmenu_hover_medium.gif",
-      "kind": "images",
-      "filename": "mainmenu_hover_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/rss.gif",
       "kind": "images",
       "filename": "rss.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/rss_medium.gif",
-      "kind": "images",
-      "filename": "rss_medium.gif"
     },
     {
       "content_type": "image/gif",
@@ -315,33 +219,15 @@
     },
     {
       "content_type": "image/gif",
-      "file": "images/search_input_medium.gif",
-      "kind": "images",
-      "filename": "search_input_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/search_submit.gif",
       "kind": "images",
       "filename": "search_submit.gif"
     },
     {
       "content_type": "image/gif",
-      "file": "images/search_submit_medium.gif",
-      "kind": "images",
-      "filename": "search_submit_medium.gif"
-    },
-    {
-      "content_type": "image/gif",
       "file": "images/slogan.gif",
       "kind": "images",
       "filename": "slogan.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/slogan_medium.gif",
-      "kind": "images",
-      "filename": "slogan_medium.gif"
     },
     {
       "content_type": "image/png",
@@ -360,12 +246,6 @@
       "file": "images/tags_h1.gif",
       "kind": "images",
       "filename": "tags_h1.gif"
-    },
-    {
-      "content_type": "image/gif",
-      "file": "images/tags_h1_medium.gif",
-      "kind": "images",
-      "filename": "tags_h1_medium.gif"
     },
     {
       "content_type": "application/javascript",
